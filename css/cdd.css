@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+  height: 1100px;
+}
+#garisAtas{
+    width: 1550px;
+    height: 30px;
+    background-color: red;
+    border-bottom: 50cm;
+    border-color: black;
+}
+hr{
+    width: 1550px;
+    height: 1.5px;
+    background-color: black;
+}
+.gambarGede img{
+    width: 1300px;
+    height: 370px;
+    margin-top: 30px;
+    border-radius: 3%;
+}
+.garis{
+    width: 1300px;
+    height: 30px;
+    background-color: red;
+    border-radius: 5px;
+    border-style: solid;
+}
+.Lain{
+    margin-left: 115px ;
+    margin-top: 30px;
+}
+.tulisan{
+    width: 1300px;
+    height: 160px;
+    margin-top: 25px;
+    margin-left: 115px;
+}
+.pertama h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    margin-left: 155px;
+}
+.pertama img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 5px;
+}
+.pertama p{
+    width: 600px;
+    margin-left: 155px;
+}
+.kedua h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    margin-left: 155px;
+}
+.kedua img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 5px;
+}
+.kedua p{
+    width: 600px;
+    margin-left: 155px;
+}
+.lagi{
+    margin-left: 115px;
+    margin-top: 25px;
+}
+.copyright{
+    width: 1300px;
+    height: 170px;
+    background-color: black;
+    margin-left: 118px;
+    /* margin-top: 30px; */
+}
+.copyright h1{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-family:'Poppins', sans-serif;;
+}
